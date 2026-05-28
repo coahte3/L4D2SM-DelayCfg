@@ -1,6 +1,6 @@
 SourceMod.<br>
 Exec .Cfg after ~sec OnMap start.<br>
-DL: <a href="https://github.com/coahte3/L4D2SM-DelayCfg/releases/download/v1.0/DelayCfg.zip">L4D2SM-DelayCfg</a><br>
+DL: <a href="https://github.com/coahte3/L4D2SM-DelayCfg/releases/download/v2.0/DelayCfg.zip">L4D2SM-DelayCfg</a><br>
 <br>
 -generated .cfgfile<br>
 -Cvar:<br>
